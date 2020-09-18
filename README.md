@@ -1,4 +1,4 @@
-# Berechnung der Mond und Sonnenfinsternisse $\pm 300$ Jahre von heute, mit einer Genauigkeit von $\approx 1'$ der Positionen
+# Berechnung der Mond und Sonnenfinsternisse +/- 300 Jahre von heute, mit einer Genauigkeit von 1' der Positionen
 
 ## Quellen:
 - https://ui.adsabs.harvard.edu/abs/1979ApJS...41..391V/abstract
